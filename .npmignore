@@ -1,0 +1,6 @@
+node_modules
+.DS_Store
+.git
+src
+preview.gif
+tsconfig.json

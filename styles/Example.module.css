@@ -1,0 +1,19 @@
+:root {
+  --black: #0a0a0a;
+  --white: #f9f9f9;
+}
+
+.btn {
+  margin: 0;
+  padding: 4px 6px;
+  color: var(--black);
+  background-color: var(--white);
+  border: 1px solid var(--black);
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+.btn:hover,
+.btn:active {
+  background-color: lightgrey;
+}
