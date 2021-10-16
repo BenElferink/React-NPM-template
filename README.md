@@ -1,6 +1,6 @@
 # React NPM Template
 
-<img src="https://github.com/belferink1996/React-NPM-template/blob/images/images/npm.png" />
+<img src="https://github.com/belferink1996/React-NPM-template/blob/main/docs/npm.png" />
 
 ## How to use this template
 
@@ -95,7 +95,7 @@ function App(){
 Common props you may want to include:
 
 | Prop      | Requirement | Default Value | Description                         |
-|-----------|-------------|---------------|-------------------------------------|
+| --------- | ----------- | ------------- | ----------------------------------- |
 | children  | Optional    | 'Button'      | Should contain the button's text    |
 | style     | Optional    | {}            | React.CSSProperties style object    |
 | className | Optional    | ''            | Additional class name(s)            |
