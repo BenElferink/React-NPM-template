@@ -54,7 +54,10 @@ Now to build and publish run the following commands:
 > npm login <br />
 > npm publish
 
-# NOTE: Update README.md
+<br />
+<br />
+
+# NOTE: Update README.md 👇
 
 The top part of of this readme is for you as a developer, the bottom part (from this parapagraph) is for the user, tweak it according to your library, and then you should publish the package.
 
